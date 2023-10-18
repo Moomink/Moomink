@@ -1,4 +1,4 @@
-I'm Japanese Student.
+I'm Japanese
 
 
 ## Like
